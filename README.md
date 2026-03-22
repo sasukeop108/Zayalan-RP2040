@@ -36,3 +36,5 @@ A rp2040 board designed by me following the tutorial by kai. I wuld use this in 
 | Y2 | 12MHz | 3225-4P | **C481407** | System | NDK | Crystal 8pF | Extended | 5 | $1.2315 |
 | J4 | Conn_01x03 | 2.54mm | — | **No Match** | — | — | — | — | — |
 | U3 | MCP1700x | SOT-89-3 | — | **No Match** | — | — | — | — | — |
+# Note
+You might tell me to just get 2 pcbs assembled i too tried but it is not possible due to some unfortunate reasons the 2 peice button is not woking for me
